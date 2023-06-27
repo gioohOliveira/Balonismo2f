@@ -1,4 +1,4 @@
-public class balao {
+public class Balao {
     // Atributos
     int id;
     String registro;
